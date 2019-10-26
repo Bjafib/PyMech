@@ -1,3 +1,3 @@
 # PyMech
 
-A simple Python Finite Element Program
+A small Python FEM program
