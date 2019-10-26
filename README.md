@@ -1,3 +1,3 @@
 # PyMech
 
-A small Python FEM program
+FEM in Python
